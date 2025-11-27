@@ -1,4 +1,4 @@
-# Quest React Avançado
+# Pokedex Dynamic App
 
 Esta é uma solução para a Quest React Avançado. As quests do curso DevQuest do [@devemdobro](instagram.com/devemdobro), são desafios que nos ajudam a aprimorar e desenvolver nossas habilidades de codificação.
 
